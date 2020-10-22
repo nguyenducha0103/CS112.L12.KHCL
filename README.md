@@ -1,6 +1,10 @@
 # CS112.L12.KHCL
 Nhóm N008
+
 Thành Viên:
-18520502 Võ Gia bảo
+
+18520502 Võ Gia Bảo
+
 18520689 Nguyễn Đức Hà
-1852 Trần Lê Duy
+
+18520674 Trần Lê Duy
