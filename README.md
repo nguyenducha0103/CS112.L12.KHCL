@@ -1,5 +1,5 @@
-# CS112.L12.KHCL
-Nhóm 8
+# CS112.L12.KHCL 
+**Nhóm 8
 
 Thành Viên:
 
